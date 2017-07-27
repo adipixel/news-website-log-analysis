@@ -1,4 +1,4 @@
-  #!/usr/bin/env python
+#!/usr/bin/env python
 from log_analysis import get_top_three, get_popular_authors, get_err_status
 
 

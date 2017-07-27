@@ -16,4 +16,4 @@ Most popular article authors of all time
 
 Days more than 1% of requests lead to errors
 
-	July 17, 2016 - 2.2% errors
+	July 17, 2016 - 2.3% errors

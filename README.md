@@ -4,8 +4,12 @@ An internal reporting tool for a newspaper website using PostgreSQL and Python, 
 ### Technologies used
 - Python
 - PostgreSQL
+- VituralBox
+- Vagrant
 
 ### Execution Instructions
+- Load the database from the database file using following command
+`psql -d news -f newsdata.sql`
 - Execute using the following command
 `python log-analysis-console.py`
 - The output gets printed in the file
